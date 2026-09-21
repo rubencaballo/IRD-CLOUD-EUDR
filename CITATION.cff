@@ -1,0 +1,15 @@
+cff-version: 1.2.0
+message: "Si usas este software, por favor citalo asi:"
+title: "IRD-CLOUD-EUDR"
+authors:
+  - family-names: "Viccon Morales"
+    given-names: "Ruben"
+version: "2.1"
+date-released: "2026-09-21"
+license: "Apache-2.0"
+repository-code: "https://github.com/rubencaballo/IRD-CLOUD-EUDR"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.22881640"
+    description: "DOI de la version 2.1 en Zenodo"
+abstract: "Offline-first EUDR compliance for child health protection. TRL 6. Teocelo, Mexico."
